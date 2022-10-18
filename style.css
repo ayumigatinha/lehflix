@@ -1,3 +1,7 @@
+body {
+    background-color: lightpink;
+}
+
 .header {
 width: 100%;
 height: 80px;
@@ -16,5 +20,9 @@ display: flex;
 justify-content: center;
 flex-direction: column;
 align-items: center;
+}
 
+.imganime  {
+width: 500px;
+height: 700px;
 }
